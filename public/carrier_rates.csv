@@ -1,0 +1,5 @@
+carrier_id,carrier_name,rate_per_kg,max_weight_kg,delivery_days
+C001,Fast Express,10,1000,2
+C002,Safe Logistics,8,2000,4
+C003,Quick Transport,12,500,1
+C004,Economy Cargo,6,1500,5

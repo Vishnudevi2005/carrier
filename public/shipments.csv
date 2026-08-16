@@ -1,0 +1,5 @@
+shipment_id,customer,weight_kg,required_delivery_days
+S001,ABC Ltd,500,3
+S002,XYZ Ltd,1200,5
+S003,PQR Ltd,300,2
+S004,LMN Ltd,800,4
